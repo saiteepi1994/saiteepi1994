@@ -13,7 +13,7 @@
  
  🔭 I’m currently working at **Royal Thai Embassy Belgium**
  
- 🌱 I’m currently learning **Azure,orracle middleware,Mulesoft ,Tensorflow**
+ 🌱 I’m currently learning **Azure,orracle middleware, Mulesoft ,Tensorflow**
 
 💬 Ask me about **AWS, Docker, Terraform, Ansible, Sonarqube, Juiceshop, Wireshark... or anything [here](https://github.com/saiteepi1994/saiteepi1994/issues)**
 
